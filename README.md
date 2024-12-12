@@ -1,2 +1,1 @@
-# alx-interview
-alx-interview
+0x05-nqueens readme
